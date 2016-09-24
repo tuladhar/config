@@ -1,18 +1,18 @@
-# My personal configuration files for public consumption and backup ;-)
+# My personal configuration files...
 
-## Sublime Text
+### Sublime Text
 - Preferences.sublime-settings
 
-## Tmux settings
+### Tmux settings
 - puru-tmux.conf
 
-## Vim settings
+### Vim settings
 - puru-vimrc
 
-## Terminal settings
+### Terminal settings
 - puru-macOS.terminal
 
-## Terminal and Sublime-text Font 
+### Terminal and Sublime-text Font 
 - `fonts/mononoki*`
 
-#### Please feel free to use if you like it!
+Please feel free to use if you like it!
